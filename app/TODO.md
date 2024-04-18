@@ -1,0 +1,6 @@
+- [x] Testar injeção de dependências com providers
+- [x] Colocar sufixo em todos os arquivos
+- [x] Testar modal
+- [ ] Testar casos de listeners com variáveis
+- [ ] Resolver questão de vários container utilizando as mesmas actions (conflitos de keys de eventos)
+- [ ] Modal global com provider

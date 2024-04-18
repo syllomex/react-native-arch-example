@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "api": "npm run dev --prefix api/",
+    "app:start": "npm run start --prefix app/",
+    "app:android": "npm run android --prefix app/"
+  }
+}

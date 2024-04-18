@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "arch-app",
+    "slug": "arch-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

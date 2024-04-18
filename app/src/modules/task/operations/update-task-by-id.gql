@@ -1,0 +1,9 @@
+mutation UpdateTaskById($id: String!, $data: UpdateTaskInput!) {
+  updateTaskById(id: $id, data: $data) {
+    id
+    title
+    description
+    done
+    deadline
+  }
+}

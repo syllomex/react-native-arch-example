@@ -1,0 +1,8 @@
+query GetTasks($filter: TaskFilterInput) {
+  tasks(filter: $filter) {
+    id
+    title
+    done
+    deadline
+  }
+}
